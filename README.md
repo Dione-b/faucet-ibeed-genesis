@@ -4,7 +4,7 @@ O projeto tem o objetivo de facilitar futuros desenvolvimentos em blockchain, fa
 
 ## Regra de negócio do contrato
 
-O contrato de duas funções, uma para depósito e outra para saque, porém apenas devs que possui uma NFT estilo ticket pass poderam requisitar os ethers do faucet.
+O contrato possui duas funções, uma para depósito e outra para saque, porém apenas devs que possui uma NFT estilo ticket pass poderam requisitar os ethers do faucet.
 
 ### Modifier de filtro NFT
 
